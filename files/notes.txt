@@ -1,0 +1,5 @@
+Node js
+Anjular js
+React
+Ionic
+ADO.net->DB: Repo Entity Framework Core
